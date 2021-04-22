@@ -1,4 +1,6 @@
 C:\Users\ander\OneDrive\Documentos\NetBeansProjects\hospitalWAR\src\main\java\co\edu\ucundinamarca\hospitalwar\pojo\ErrorDto.java
+C:\Users\ander\OneDrive\Documentos\NetBeansProjects\hospitalWAR\src\main\java\co\edu\ucundinamarca\hospitalwar\exception\filter\WebAplicationFiltro.java
+C:\Users\ander\OneDrive\Documentos\NetBeansProjects\hospitalWAR\src\main\java\co\edu\ucundinamarca\hospitalwar\exception\filter\EJBExcepccionFilter.java
 C:\Users\ander\OneDrive\Documentos\NetBeansProjects\hospitalWAR\src\main\java\org\netbeans\rest\application\config\ApplicationConfig.java
 C:\Users\ander\OneDrive\Documentos\NetBeansProjects\hospitalWAR\src\main\java\co\edu\ucundinamarca\hospitalwar\exception\filter\ModelNotFoundExceptionFilter.java
 C:\Users\ander\OneDrive\Documentos\NetBeansProjects\hospitalWAR\src\main\java\co\edu\ucundinamarca\hospitalwar\exception\filter\NullPointerExceptionFilter.java
